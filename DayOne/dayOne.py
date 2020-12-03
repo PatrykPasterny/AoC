@@ -12,5 +12,3 @@ for num in nums:
         if (num + num2) == 2020:
             print("1:" + str(num) + " " + "2:" + str(num2)) 
             print("Result: " + str(num * num2))
-
-print("dupa")
