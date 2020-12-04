@@ -24,6 +24,8 @@ def firstPart():
     
     print("Result:" + str(sum))
 
+############## SECOND PART OF PUZZLE ########################
+
 def secPart():
     readMyFile = readfile("C:/Users/admin/Desktop/MyImportant/AOC/DayTwo/input.txt")
     fileLines = [x for x in readMyFile.split('\n') if x != '']
