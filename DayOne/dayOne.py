@@ -16,7 +16,7 @@ def firstPart():
                 print("1:" + str(num) + " " + "2:" + str(num2)) 
                 print("Result: " + str(num * num2))
 
-############## SECOND PART OF PUZZLE
+############## SECOND PART OF PUZZLE ########################
 
 def secPart():
     readMyFile = readfile("C:/Users/admin/Desktop/MyImportant/AOC/DayOne/input.txt")

@@ -31,6 +31,7 @@ def firstPart(moveDown, moveRight):
     print("Result: " + str(sum))
     return sum
 
+################ SECOND PART OF PUZZLE ##############
 def secPart():
     slopeTestCases = [(1, 1), (1, 3), (1, 5), (1, 7), (2, 1)]
     
