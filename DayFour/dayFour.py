@@ -66,7 +66,7 @@ def firstPart():
     print(sum)
     return validPassports
    
-
+############## SECOND PART OF THE PUZZLE #################
 def secPart():
     validator = Validator()
     validPassports = []
